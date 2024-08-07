@@ -1,0 +1,6 @@
+![page1](./conditional-revision/1.png)
+![page2](./conditional-revision/2.png)
+![page3](./conditional-revision/3.png)
+![page4](./conditional-revision/4.png)
+![page5](./conditional-revision/5.png)
+![page6](./conditional-revision/6.png)
